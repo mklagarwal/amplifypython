@@ -1,0 +1,22 @@
+{
+  "name": "amplifypython",
+  "version": "1.0.0",
+  "description": "communicate with python",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mklagarwal/amplifypython.git"
+  },
+  "author": "mukul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mklagarwal/amplifypython/issues"
+  },
+  "homepage": "https://github.com/mklagarwal/amplifypython#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
